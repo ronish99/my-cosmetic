@@ -1,0 +1,11 @@
+.productContainer {
+  display: flex;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.active {
+  color: tomato;
+}
